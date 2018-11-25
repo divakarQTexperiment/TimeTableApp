@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>headers/HomePageHeader.qml</file>
+        <file>pages/HomePage.qml</file>
+        <file>images/about.png</file>
+        <file>images/add.png</file>
+        <file>images/back.png</file>
+        <file>images/close.png</file>
+        <file>images/currentTime.png</file>
+        <file>images/delete.png</file>
+        <file>images/edit.png</file>
+        <file>images/exit.png</file>
+        <file>images/appicon.png</file>
+ <file>images/happy.png</file>
+ <file>images/sad.png</file>
+
+        <file>images/user48.png</file>
+        <file>images/home.png</file>
+        <file>images/extend.png</file>
+        <file>images/feedback.png</file>
+        <file>images/user.png</file>
+        <file>images/menu.png</file>
+        <file>images/rightmenu.png</file>
+        <file>images/settings.png</file>
+        <file>images/share.png</file>
+        <file>images/alarm_fill.png</file>
+        <file>images/alarm_no_fill.png</file>
+        <file>images/timetable.png</file>
+        <file>popups/DrawerDelegate.qml</file>
+        <file>popups/DrawerHome.qml</file>
+        <file>popups/DrawerModel.qml</file>
+        <file>popups/DrawerView.qml</file>
+        <file>popups/RightMenuPopup.qml</file>
+        <file>toolcomps/HorizontalDivider.qml</file>
+        <file>toolcomps/VerticalDivider.qml</file>
+        <file>popups/SettingPopup.qml</file>
+        <file>popups/MessageDialogueBox.qml</file>
+        <file>js_files/CreateObjectDynamic.js</file>
+        <file>pages/UserInfoPage.qml</file>
+        <file>headers/HeaderCommon.qml</file>
+        <file>toolcomps/ButtonFlat.qml</file>
+        <file>pages/FeedBackPage.qml</file>
+        <file>pages/AboutPage.qml</file>
+        <file>pages/DailyTimeTable.qml</file>
+        <file>headers/TimeTableHeader.qml</file>
+        <file>toolcomps/FloatingButton.qml</file>
+        <file>pages/TimeTableDelegate.qml</file>
+        <file>popups/PopupTimeDate.qml</file>
+        <file>popups/CurrentTime.qml</file>
+        <file>popups/EditActivityPopup.qml</file>
+        <file>popups/TimePicker.qml</file>
+    </qresource>
+</RCC>
